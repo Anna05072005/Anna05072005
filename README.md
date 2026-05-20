@@ -2,7 +2,7 @@
 
 # Anna Cherkashina 👋
 
-### 🎓 Data Science Student @ Simon Fraser University
+### 🎓 Data Science Student at Simon Fraser University
 
 ### 🤖 Machine Learning • 📊 Data Analytics • 🧠 AI Applications • ⚙️ Backend Systems
 
@@ -29,19 +29,79 @@ I enjoy turning real-world problems into structured technical solutions using da
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
-### 💻 Languages
-`Python` • `SQL` • `R` • `C++` • `JavaScript`
+<table>
+<tr>
 
-### 📊 Data Science & Analytics
-`pandas` • `NumPy` • `scikit-learn` • `CatBoost` • `Power BI` • `SQLite`
+<td width="25%" valign="top">
 
-### ⚙️ Development Tools
-`Git` • `GitHub` • `VS Code` • `Cursor` • `Jupyter Notebook`
+<div align="center">
 
-### 📚 Concepts & Areas
-`Machine Learning` • `Predictive Modeling` • `EDA` • `Feature Engineering` • `Backend Systems` • `Data Engineering`
+## 💻 Languages
+
+</div>
+
+🐍 Python  
+🗄️ SQL  
+📊 R  
+⚙️ C++  
+🌐 JavaScript  
+
+</td>
+
+<td width="25%" valign="top">
+
+<div align="center">
+
+## 📊 Data Science
+
+</div>
+
+🐼 pandas  
+🔢 NumPy  
+🧠 scikit-learn  
+🚀 CatBoost  
+📈 Power BI  
+🗃️ SQLite  
+
+</td>
+
+<td width="25%" valign="top">
+
+<div align="center">
+
+## ⚙️ Development
+
+</div>
+
+🔧 Git  
+🐙 GitHub  
+💻 VS Code  
+✨ Cursor  
+📓 Jupyter Notebook  
+
+</td>
+
+<td width="25%" valign="top">
+
+<div align="center">
+
+## 🧩 Concepts
+
+</div>
+
+🤖 Machine Learning  
+📈 Predictive Modeling  
+🔍 EDA  
+🛠️ Feature Engineering  
+⚡ Backend Systems  
+☁️ Data Engineering  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -64,6 +124,18 @@ Cross-market prediction arbitrage detection platform using relational database d
 
 ### 🌎 Indigenous Language Visualizer
 Interactive educational vocabulary visualizer with audio playback and image processing functionality.
+
+---
+
+# 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anna-cherkashina-467059293)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge)](mailto:aca363@sfu.ca)
+
+</div>
 
 ---
 
