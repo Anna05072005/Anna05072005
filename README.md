@@ -6,6 +6,7 @@
 
 ### 🤖 Machine Learning • 📊 Data Analytics • 🧠 AI Applications • ⚙️ Backend Systems
 
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-cherkashina-467059293)
