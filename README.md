@@ -73,10 +73,13 @@ Interactive educational vocabulary visualizer with audio playback and image proc
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anna-cherkashina-467059293)
-[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge)](mailto:aca363@sfu.ca)
+### 📫 Connect
+
+<a href="https://www.linkedin.com/in/anna-cherkashina-467059293">LinkedIn</a> • <a href="mailto:aca363@sfu.ca">Email</a>
+
+</div>
 
 ---
 
