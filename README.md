@@ -6,9 +6,13 @@
 
 ### 🤖 Machine Learning • 📊 Data Analytics • 🧠 AI Applications • ⚙️ Backend Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anna-cherkashina-467059293)
+<div align="center">
 
-[![Email](https://img.shields.io/badge/SFU_Email-red?style=for-the-badge&logo=gmail)](mailto:aca363@sfu.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-cherkashina-467059293)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logoColor=white)](mailto:aca363@sfu.ca)
+
+</div>
 
 </div>
 
