@@ -25,18 +25,13 @@ I enjoy turning real-world problems into structured technical solutions using da
 
 ---
 
-# 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <table>
 <tr>
+<td align="center" width="25%">
 
-<td width="25%" valign="top">
-
-<div align="center">
-
-## 💻 Languages
-
-</div>
+### 💻 Languages
 
 🐍 Python  
 🗄️ SQL  
@@ -45,14 +40,9 @@ I enjoy turning real-world problems into structured technical solutions using da
 🌐 JavaScript  
 
 </td>
+<td align="center" width="25%">
 
-<td width="25%" valign="top">
-
-<div align="center">
-
-## 📊 Data Science
-
-</div>
+### 📊 Data Science
 
 🐼 pandas  
 🔢 NumPy  
@@ -62,14 +52,9 @@ I enjoy turning real-world problems into structured technical solutions using da
 🗃️ SQLite  
 
 </td>
+<td align="center" width="25%">
 
-<td width="25%" valign="top">
-
-<div align="center">
-
-## ⚙️ Development
-
-</div>
+### ⚙️ Development
 
 🔧 Git  
 🐙 GitHub  
@@ -78,14 +63,9 @@ I enjoy turning real-world problems into structured technical solutions using da
 📓 Jupyter Notebook  
 
 </td>
+<td align="center" width="25%">
 
-<td width="25%" valign="top">
-
-<div align="center">
-
-## 🧩 Concepts
-
-</div>
+### 🧩 Concepts
 
 🤖 Machine Learning  
 📈 Predictive Modeling  
@@ -95,7 +75,6 @@ I enjoy turning real-world problems into structured technical solutions using da
 ☁️ Data Engineering  
 
 </td>
-
 </tr>
 </table>
 
@@ -123,13 +102,13 @@ Interactive educational vocabulary visualizer with audio playback and image proc
 
 ---
 
-# 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anna-cherkashina-467059293)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge)](mailto:aca363@sfu.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-cherkashina-467059293)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logoColor=white)](mailto:aca363@sfu.ca)
 
 </div>
 
