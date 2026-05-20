@@ -1,7 +1,12 @@
+<div align="center">
+
 # Anna Cherkashina 👋
 
-### 🎓 Data Science Student @ Simon Fraser University  
+### 🎓 Data Science Student at Simon Fraser University
+
 ### 🤖 Machine Learning • 📊 Data Analytics • 🧠 AI Applications • ⚙️ Backend Systems
+
+</div>
 
 ---
 
@@ -82,8 +87,6 @@ Interactive educational vocabulary visualizer with audio playback and image proc
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anna-cherkashina-467059293)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Anna05072005)
 
 ---
 
