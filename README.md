@@ -2,7 +2,7 @@
 
 # Anna Cherkashina 👋
 
-### 🎓 Data Science Student at Simon Fraser University
+### 🎓 Data Science Student @ Simon Fraser University
 
 ### 🤖 Machine Learning • 📊 Data Analytics • 🧠 AI Applications • ⚙️ Backend Systems
 
@@ -28,27 +28,16 @@ I enjoy turning real-world problems into structured technical solutions using da
 ## 🛠️ Technologies & Tools
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=postgresql)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
----
+`Python` • `SQL` • `R` • `C++` • `JavaScript`
 
 ### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikitlearn)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+`pandas` • `NumPy` • `scikit-learn` • `CatBoost` • `Power BI` • `SQLite`
 
----
+### ⚙️ Development Tools
+`Git` • `GitHub` • `VS Code` • `Cursor` • `Jupyter Notebook`
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+### 📚 Concepts & Areas
+`Machine Learning` • `Predictive Modeling` • `EDA` • `Feature Engineering` • `Backend Systems` • `Data Engineering`
 
 ---
 
@@ -79,14 +68,16 @@ Interactive educational vocabulary visualizer with audio playback and image proc
 - 🤖 AI Engineering Workflows
 - ⚙️ Backend Development
 - 🧠 Full-Stack AI Systems
-- 📊 Advanced Machine Learning
 - ☁️ Data Engineering Concepts
+- 📊 Advanced Machine Learning
 
 ---
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anna-cherkashina-467059293)
+
+[![Email](https://img.shields.io/badge/SFU_Email-red?style=for-the-badge&logo=gmail)](mailto:aca363@sfu.ca)
 
 ---
 
