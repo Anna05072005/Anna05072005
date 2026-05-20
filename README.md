@@ -2,9 +2,13 @@
 
 # Anna Cherkashina 👋
 
-### 🎓 Data Science Student at Simon Fraser University
+### 🎓 Data Science Student @ Simon Fraser University
 
 ### 🤖 Machine Learning • 📊 Data Analytics • 🧠 AI Applications • ⚙️ Backend Systems
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anna-cherkashina-467059293)
+
+[![Email](https://img.shields.io/badge/SFU_Email-red?style=for-the-badge&logo=gmail)](mailto:aca363@sfu.ca)
 
 </div>
 
@@ -27,56 +31,17 @@ I enjoy turning real-world problems into structured technical solutions using da
 
 ## 🛠️ Technologies & Tools
 
-<table>
-<tr>
-<td align="center" width="25%">
-
 ### 💻 Languages
+`Python` • `SQL` • `R` • `C++` • `JavaScript`
 
-🐍 Python  
-🗄️ SQL  
-📊 R  
-⚙️ C++  
-🌐 JavaScript  
+### 📊 Data Science & Analytics
+`pandas` • `NumPy` • `scikit-learn` • `CatBoost` • `Power BI` • `SQLite`
 
-</td>
-<td align="center" width="25%">
+### ⚙️ Development Tools
+`Git` • `GitHub` • `VS Code` • `Cursor` • `Jupyter Notebook`
 
-### 📊 Data Science
-
-🐼 pandas  
-🔢 NumPy  
-🧠 scikit-learn  
-🚀 CatBoost  
-📈 Power BI  
-🗃️ SQLite  
-
-</td>
-<td align="center" width="25%">
-
-### ⚙️ Development
-
-🔧 Git  
-🐙 GitHub  
-💻 VS Code  
-✨ Cursor  
-📓 Jupyter Notebook  
-
-</td>
-<td align="center" width="25%">
-
-### 🧩 Concepts
-
-🤖 Machine Learning  
-📈 Predictive Modeling  
-🔍 EDA  
-🛠️ Feature Engineering  
-⚡ Backend Systems  
-☁️ Data Engineering  
-
-</td>
-</tr>
-</table>
+### 📚 Concepts & Areas
+`Machine Learning` • `Predictive Modeling` • `EDA` • `Feature Engineering` • `Backend Systems` • `Data Engineering`
 
 ---
 
@@ -99,18 +64,6 @@ Cross-market prediction arbitrage detection platform using relational database d
 
 ### 🌎 Indigenous Language Visualizer
 Interactive educational vocabulary visualizer with audio playback and image processing functionality.
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-cherkashina-467059293)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logoColor=white)](mailto:aca363@sfu.ca)
-
-</div>
 
 ---
 
