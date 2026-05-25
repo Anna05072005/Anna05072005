@@ -37,7 +37,7 @@ I enjoy turning real-world problems into structured technical solutions using da
 ## 🛠️ Technologies & Tools
 
 ### 💻 Languages
-`Python` • `SQL` • `R` • `C++` • `C` • `JavaScript`
+`Python` • `SQL` • `R` • `C/C++` • `JavaScript`
 
 ### 📊 Data Science & Analytics
 `pandas` • `NumPy` • `scikit-learn` • `CatBoost` • `Power BI` • `SQLite`
