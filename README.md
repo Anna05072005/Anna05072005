@@ -61,7 +61,7 @@ Machine learning pipeline for predicting late payment risk using financial surve
 ### 🔐 Login Simulator & Threat Detection
 Python + SQLite security analytics pipeline simulating authentication events and SQL-based threat detection logic for suspicious login behavior.
 
-### 🤖 AI Data Analyst Assistant
+### 🤖 AI Data Scientist Agent
 AI-powered analytics assistant with backend/frontend architecture and natural language querying workflows.
 
 ### 📈 ArbScanner
